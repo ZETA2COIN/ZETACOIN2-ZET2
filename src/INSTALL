@@ -1,0 +1,9 @@
+Building ZETA2COIN
+
+See doc/readme-qt.rst for instructions on building ZETA2COIN QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ZETA2COIN.
+
+See doc/build-*.txt for instructions on building Testcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of ZETA2COIN.
