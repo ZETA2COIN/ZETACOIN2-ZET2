@@ -32,23 +32,31 @@ port=25589
 
 NAMECOIN ZETA2COIN
 
-Ticker : ZET2
 
-Algo : QUARK
+Ticker : ZET2
 
-PoW&PoS 
 
-POW only 0,48 % 30.000 coin
+Algo : QUARK
+
+
+PoW&PoS 
+
+
+POW only 0,48 % 30.000 coin
 
 POS 99,52 %
 
-Last PoW Block : 3.000
 
-PoS Reward : 30 %PoS 
+Last PoW Block : 3.000
+
+
+PoS Reward : 30 %
+PoS 
 
 Min. Coin Age : 4 Hour
 
-PoS Max. Coin Age : Unlimited
+
+PoS Max. Coin Age : Unlimited
 
 PoW Block Reward : 10
 
@@ -56,20 +64,22 @@ Block Time : 30 Seconds
 
 No halving 
 
-Max coinbase 5.000.000
 
-ICO COINS  1200000 
+Max coinbase 5.000.000
 
-50000 COINS Bounty,giveaway,Pools,Game,Exchange
+
+ICO COINS  1200000 
+
+
+50000 COINS Bounty,giveaway,Pools,Game,Exchange
 
 Total coin supply 6.250.0000-1 block ICO 1250000 Coins
 
-2-3000 block 10 ZET2 & END POW
 
-Block Mature : 10 Blocks
+2-3000 block 10 ZET2 & END POW
 
-Transaction : 5 Blocks
+Confirm : 10 Blocks
 
-P2P Port : 25589
+P2P Port : 25589
 
-RPC Port : 25591
+RPC Port : 25591
