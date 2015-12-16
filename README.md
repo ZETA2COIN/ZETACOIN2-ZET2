@@ -56,7 +56,7 @@ PoS
 Min. Coin Age : 4 Hour
 
 
-PoS Max. Coin Age : Unlimited
+PoS Max. Coin Age : 1000 years
 
 PoW Block Reward : 10
 
@@ -64,21 +64,16 @@ Block Time : 30 Seconds
 
 No halving 
 
-
-Max coinbase 5.000.000
-
-
 ICO COINS  1200000 
 
 
 50000 COINS Bounty,giveaway,Pools,Game,Exchange
 
-Total coin supply 6.250.0000-1 block ICO 1250000 Coins
-
+Max coin supply 6.250.0000-1 block ICO 1250000 Coins
 
 2-3000 block 10 ZET2 & END POW
 
-Confirm : 10 Blocks
+maturity 20 Blocks
 
 P2P Port : 25589
 
